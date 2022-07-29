@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Socket Chat App</string>
+    <string name="email_username">Email / Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_room">Create Room</string>
+    <string name="chat_app_demo_using_socket_and_api">Chat App demo Using Socket and API</string>
+    <string name="logout">Logout</string>
+    <string name="list_of_rooms_you_already_chat">Room List(Already chat)</string>
+</resources>
